@@ -1,7 +1,7 @@
 # Calculator Vue.js
 A simple calculator built with Vue.js.
 
-![Calculator Vue.js](screenshot.png)
+![Calculator Vue.js](./public/screenshot.png)
 
 ## Functionalities
 - Addition, subtraction, multiplication and division of numbers.
